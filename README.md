@@ -13,3 +13,4 @@ This is Tensorflow based project using U-Net Architecture to map flooding using 
 ## Prediction Example
 
 ## Network architecture
+![UNet Architecture](https://user-images.githubusercontent.com/35564104/132347590-11547d7f-2403-44ca-bcdd-8bdd9cf71328.png)
