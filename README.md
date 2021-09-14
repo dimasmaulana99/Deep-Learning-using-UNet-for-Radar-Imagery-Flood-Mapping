@@ -4,17 +4,16 @@
 This is Tensorflow based project using U-Net Architecture to map flooding using Sentinel-1 imagery
 
 ## Dataset
-You can download our dataset in this link https://www.kaggle.com/dimskeee/unet-segmentation-using-radar-imagery, that includes thousands of tiles that used to train, test, and validation.
-The size of tiles is 128 x 128, and default filter in the script is 16, 32, 48, 64.
+You can download our dataset at this link https://www.kaggle.com/dimskeee/unet-segmentation-using-radar-imagery, which includes thousands of tiles that are used to train, test, and validation. The size of tiles is 128 x 128, and the default filter in the script is 16, 32, 48, 64.
 
 ## Implementation
-This is a map that came from visual interpretation (manually)
+Visual interpretation map (manually)
 ![Digitasi](https://user-images.githubusercontent.com/35564104/133213232-ba812ed4-73d0-4325-ad90-d653230264bb.jpeg)
 
 **Note:** Training for this model was done on a RTX 2060 Super 6GB
 
 ## Prediction
-This is a map that came from prediction from our model to the same dataset (automatically)
+Predicted map (automatically)
 ![Predict](https://user-images.githubusercontent.com/35564104/133213257-78cdcee6-78b9-44b5-8ce4-c971bb72f1ce.jpeg)
 
 
