@@ -4,7 +4,7 @@
 This is Tensorflow based project using U-Net Architecture to map flooding using Sentinel-1 imagery
 
 ## Dataset
-
+You can download our dataset in this link https://www.kaggle.com/dimskeee/unet-segmentation-using-radar-imagery, that includes thousands of tiles that used to train, test, and validation
 
 ## Implementation
 
