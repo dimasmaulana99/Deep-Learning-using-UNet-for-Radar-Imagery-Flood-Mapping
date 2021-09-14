@@ -19,4 +19,4 @@ Predicted map (automatically) <br>
 <img src="https://user-images.githubusercontent.com/35564104/133213257-78cdcee6-78b9-44b5-8ce4-c971bb72f1ce.jpeg" width="500">
 
 ## Network architecture
-<img src="https://user-images.githubusercontent.com/35564104/133194630-aaf30552-029d-450d-a726-336ef52b850b.jpeg" width="500">
+<img src="https://user-images.githubusercontent.com/35564104/133219716-6242ce0c-ffa4-4977-bac0-54e686148fd9.png" width="500">
