@@ -24,6 +24,6 @@ Predicted map (automatically) <br>
 
 ## Results
 #### Manual Digitation <br>
-<img src="https://user-images.githubusercontent.com/35564104/138245023-9b077f23-a9e1-4396-b701-450d43b0c09c.png" width="600"> <br>
+<img src="https://user-images.githubusercontent.com/35564104/138245023-9b077f23-a9e1-4396-b701-450d43b0c09c.png" width="1000"> <br>
 #### U-net Prediction <br>
-<img src="https://user-images.githubusercontent.com/35564104/138245042-029a7757-1fcc-4c2a-90dc-088e8dfc7407.png" width="600">
+<img src="https://user-images.githubusercontent.com/35564104/138245042-029a7757-1fcc-4c2a-90dc-088e8dfc7407.png" width="1000">
