@@ -10,17 +10,10 @@ Folder Structure: <br>
 Images structure: <br>
 <img src="https://user-images.githubusercontent.com/35564104/133221680-a2bb4cad-503b-413d-be0c-db530d8a6a53.png" width="250">
 ## Implementation
-Visual interpretation map (manually) <br>
-<img src="https://user-images.githubusercontent.com/35564104/133213232-ba812ed4-73d0-4325-ad90-d653230264bb.jpeg" width="500">
-
-**Note:** Training for this model was done on a RTX 2060 Super 6GB
-
-## Prediction
-Predicted map (automatically) <br>
-<img src="https://user-images.githubusercontent.com/35564104/133213257-78cdcee6-78b9-44b5-8ce4-c971bb72f1ce.jpeg" width="500">
 
 ## Network architecture
-<img src="https://user-images.githubusercontent.com/35564104/133219716-6242ce0c-ffa4-4977-bac0-54e686148fd9.png" width="500">
+<img src="https://user-images.githubusercontent.com/35564104/133219716-6242ce0c-ffa4-4977-bac0-54e686148fd9.png" width="500"> <br>
+**Note:** Training for this model was done on a RTX 2060 Super 6GB
 
 ## Results
 #### Manual Digitation <br>
