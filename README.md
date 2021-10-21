@@ -9,7 +9,6 @@ Folder Structure: <br>
 <img src="https://user-images.githubusercontent.com/35564104/133217714-2584b01e-400d-4d4e-90be-a30116f84e1f.PNG" width="250"> <br>
 Images structure: <br>
 <img src="https://user-images.githubusercontent.com/35564104/133221680-a2bb4cad-503b-413d-be0c-db530d8a6a53.png" width="250">
-## Implementation
 
 ## Network architecture
 <img src="https://user-images.githubusercontent.com/35564104/133219716-6242ce0c-ffa4-4977-bac0-54e686148fd9.png" width="500"> <br>
