@@ -23,7 +23,7 @@ Predicted map (automatically) <br>
 <img src="https://user-images.githubusercontent.com/35564104/133219716-6242ce0c-ffa4-4977-bac0-54e686148fd9.png" width="500">
 
 ## Results
-### Manual Digitation <br>
-<img src="https://user-images.githubusercontent.com/35564104/138245023-9b077f23-a9e1-4396-b701-450d43b0c09c.png" width="500"> <br>
-### U-net Prediction <br>
-<img src="https://user-images.githubusercontent.com/35564104/138245042-029a7757-1fcc-4c2a-90dc-088e8dfc7407.png" width="500">
+#### Manual Digitation <br>
+<img src="https://user-images.githubusercontent.com/35564104/138245023-9b077f23-a9e1-4396-b701-450d43b0c09c.png" width="600"> <br>
+#### U-net Prediction <br>
+<img src="https://user-images.githubusercontent.com/35564104/138245042-029a7757-1fcc-4c2a-90dc-088e8dfc7407.png" width="600">
