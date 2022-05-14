@@ -1,4 +1,4 @@
-# UNet-for-Radar-Imagery
+# UNet-for-Radar-Imagery-Flood-Mapping
 
 ## About this project
 This is Tensorflow based project using U-Net Architecture to map flooding using Sentinel-1 imagery.
