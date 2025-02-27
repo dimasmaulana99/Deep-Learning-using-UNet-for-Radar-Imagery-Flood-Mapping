@@ -1,7 +1,7 @@
 # UNet-for-Radar-Imagery-Flood-Mapping
 
 ## About this project
-This is Tensorflow based project using U-Net Architecture to map flooding using Sentinel-1 imagery.
+This is Tensorflow based project using U-Net Architecture to map flooding using Sentinel-1 imagery (under development)
 
 ## Dataset
 You can download our dataset at this link https://www.kaggle.com/dimskeee/unet-segmentation-using-radar-imagery, which includes thousands of tiles that are used to train, test, and validation. The size of the tiles is 128 x 128, and the default filter in the script is 16, 32, 48, and 64. <br>
